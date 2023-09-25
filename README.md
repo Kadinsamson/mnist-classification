@@ -87,14 +87,15 @@ np.argmax(model.predict(img_28_gray_scaled.reshape(1,28,28,1)),axis=1)
 ```
 
 ## Output:
+![image](1.png)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 ### ACCURACY VS VAL_ACCURACY
-![image](https://user-images.githubusercontent.com/75235488/189907130-3c5f18c6-e092-463b-a520-3e3fa0a2859c.png)
+![image](2.png)
 
 
 ### TRAINING_LOSS VS VAL_LOSS
-![image](https://user-images.githubusercontent.com/75235488/189906885-b7baf893-874f-464d-9961-0d84304e54c3.png)
+![image](3.png)
 
 ### Classification Report
 
